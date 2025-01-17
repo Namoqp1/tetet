@@ -3390,7 +3390,7 @@ local aa = {
 				"TextBox",
 				{
 					FontFace = Font.new "rbxasset://fonts/families/GothamSSm.json",
-					Text = "Value",
+					Text = tostring(f.Default),
 					TextSize = 14,
 					TextWrapped = true,
 					TextXAlignment = Enum.TextXAlignment.Right,
@@ -5555,4 +5555,4 @@ do
 end
 
 
-print("Ez")
+print("Ezz")
