@@ -3390,7 +3390,6 @@ local aa = {
 				"TextBox",
 				{
 					FontFace = Font.new "rbxasset://fonts/families/GothamSSm.json",
-					TextColor3 = Color3.fromRGB(200, 200, 200),
 					Text = "Value",
 					TextSize = 14,
 					TextWrapped = true,
@@ -5554,3 +5553,6 @@ do
 		end
 	end
 end
+
+
+print("Ez")
